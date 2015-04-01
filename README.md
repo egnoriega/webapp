@@ -11,4 +11,4 @@ Apache 2.0
 
 Copyright Docker Inc Education Team 2014 <education@docker.com>
 
- os the time for all good men to come to the aid of their nations.
+ Nos is the time for all good men to come to the aid of their nations.
